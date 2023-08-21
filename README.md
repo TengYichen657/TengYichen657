@@ -22,9 +22,9 @@ Desenvolvimento de Sistemas - TG0 Definição de demanda de desenvolvimento
 
 5 . Identifique os principais critérios de qualidade para o produto;
     
-    O software teria que ter uma interface de fácil entendimento, sendo rápido e prático, o sistema também deve ser acessível, entre os aparelhos eletrônicos mais básicos até os intermediários, sendo ele consistente em entregar resultados, sem travamento ou falha operacional. Resumidamente, o software necessidade ser fácil e prático.
+    O software teria que ter uma interface de fácil entendimento, sendo rápido e prático, o sistema também deverá ser acessível, para a funcionabilidade dos aparelhos eletrônicos mais básicos até intermediários, também deve se manter consistente na entrega de resultados, sem travamento ou falha operacional. Resumidamente, o software necessidade ser fácil, prático e acessível.
     
 
 6 . Avalie os riscos (relacionados à não entrega, falhas e de desenvolvimento).
     
-    Os riscos em relação a não entrega, falhas e desenvolvimento se devem ao principal fator de confiança, caso o usuário do software não se sinta confiante com o mesmo se obtém o risco de que o sistema operacional não seja utilizado pelo principal mercado consumidor (empresários de pequeno e médio porte), para evitar este problema, se deve, criar um software prático, para auxiliar o usuário, com um sistema simples, para não haver falhas operacionais e ao mesmo tempo efetivo, para auxiliar nos negócios do empreendedores de maneira efetiva. 
+    Os riscos em relação a não entrega, falhas e desenvolvimento se devem ao principal fator de confiança, caso o usuário do software não se sinta confiante com o mesmo, se obtém o risco de que o sistema operacional não seja utilizado pelo principal mercado consumidor (empresários de pequeno e médio porte), para evitar este problema, se deve, criar um software prático, para auxiliar o usuário, com um sistema simples, para não haver falhas operacionais e ao mesmo tempo efetivo, para a facilitação dos empreedimentos de maneira efetiva. 
