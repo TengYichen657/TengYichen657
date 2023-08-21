@@ -7,7 +7,7 @@ Desenvolvimento de Sistemas - TG0 Definição de demanda de desenvolvimento
 
 2 . A razão ou justificativa para esta demanda;
     
-    A demanda deste produto se deve pelo fator de que softwares deste nivel são extremamente caros e vendidos somente a megaempreendimentos, a construção de um projeto deste, auxiliará inúmeros microempresários, auxiliando no sucesso de seus futuros empreedimentos.
+    A demanda deste produto se deve pelo fator de que softwares deste nivel são extremamente caros e vendidos somente a megaempreendimentos, a construção de um projeto deste, auxiliará inúmeros microempresários, facilitando o sucesso de seus futuros empreedimentos.
 
 
 3 . A descrição sucinta do produto de software que será produzido;
