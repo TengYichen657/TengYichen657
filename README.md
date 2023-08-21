@@ -1,4 +1,5 @@
 Desenvolvimento de Sistemas - TG0 Definição de demanda de desenvolvimento
+Grupo: Teng Yichen, Igor Shirata e Henrique Nellessen
 
 1 . O problema ou oportunidade percebida;
     
