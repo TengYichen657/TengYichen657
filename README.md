@@ -29,3 +29,34 @@ Grupo: Teng Yichen, Igor Shirata e Henrique Nellessen
 6 . Avalie os riscos (relacionados à não entrega, falhas e de desenvolvimento).
     
     Os riscos em relação a não entrega, falhas e desenvolvimento se devem ao principal fator de confiança, caso o usuário do software não se sinta confiante com o mesmo, se obtém o risco de que o sistema operacional não seja utilizado pelo principal mercado consumidor (empresários de pequeno e médio porte), para evitar este problema, se deve, criar um software prático, para auxiliar o usuário, com um sistema simples, para não haver falhas operacionais e ao mesmo tempo efetivo, para a facilitação dos empreedimentos de maneira efetiva. 
+
+
+
+TG2 - Especificação de Caso de Uso
+
+Atores
+Usuário: microempreendedores e futuros microempreendedores que buscam crescer no mercado financeiro.
+Sistema: responsável por calcular seus gastos, auxiliar na reposição de mercadorias e gráficos demonstrativos representando informações sobre venda de produtos.
+
+Pré-condições
+O usuário deve estar inserido no mercado financeiro ou ingressando, buscando oportunidades .
+O usuário deve estar buscando uma ferramenta auxiliadora para seu empreendimento.
+
+Fluxo Principal
+O usuário cadastra seu perfil
+O usuário cadastra seu empreendimento.
+O usuário é redirecionado para a tela principal onde tem seu perfil completo com seu(s) empreendimento(s). 
+O usuário seleciona “Relatórios”.
+O sistema exibe opções de fatura, reposição de estoque, gráficos representativos, relatório ROI de cada produto e dicas empresariais para o melhor auxílio do empreendedor.
+O usuário escolhe qual opção deseja.
+O usuário clica na feature desejada e é exibido a determinada tela com o extrato, dashboard, ou possíveis ações a realizar.
+O sistema calcula as melhores ações a serem tomadas de acordo com o desejo do usuário ou mostra os resultados e metas a alcançar. 
+O sistema exibe a visualização e ajuda o usuário a acompanhar o andamento da tratativa.
+
+
+Pós-condições
+O histórico das ações são adicionadas no perfil do empreendedor.
+O usuário pode visualizar uma nova melhoria para seu empreendimento.
+
+
+
